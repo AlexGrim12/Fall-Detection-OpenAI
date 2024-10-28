@@ -1,1 +1,5 @@
 .env
+fall_images/
+fall_frame.png
+frame_before_fall.png
+yolo11n.pt
